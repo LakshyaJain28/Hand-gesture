@@ -14,7 +14,8 @@ span
 }
 #result_gesture_name  
 {
-  color: black;
+  color: whitesmoke;
+  font-size: 15px;
 }
 .emotion_name
 {
